@@ -1,7 +1,4 @@
-@settings {
-  font-size: 100;
-}
-Portfolio Site
+# Portfolio Site
 
 http://matthew-hong.com/
 
